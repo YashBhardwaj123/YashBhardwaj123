@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Yash Bhardwaj:
 👋 Hi, I’m Yash Bhardwaj<br>🌱 I’m a MERN Developer<br>👀 I’m interested in Web Development, Competitive Programming & DSA<br>🤝 I’m looking to collaborate on MERN fullstack projects<br>📫 How to reach me https://www.linkedin.com/in/yash-bhardwaj-91b16725b/ OR yashbhardwaj2403@gmail.com<br>⚡ Fun fact: Life is sorted if you know the correct algorithm
 
 
